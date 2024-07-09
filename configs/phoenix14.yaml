@@ -1,0 +1,4 @@
+dataset_root: ~/home/czk/Data/SLR_Dataset/CSL_Continuous
+dict_path: ./preprocess/SLR_dataset/gloss_dict.npy
+evaluation_dir: ./evaluation/slr_eval
+evaluation_prefix: phoenix2014-groundtruth
